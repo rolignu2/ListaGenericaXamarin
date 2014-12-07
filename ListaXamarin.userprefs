@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.Xamarin" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ListaXamarin\MainActivity.cs" Line="4" Column="4" />
+      <File FileName="ListaXamarin\Properties\AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="ListaXamarin\Properties\AndroidManifest.xml" Line="12" Column="12" />
+      <File FileName="ListaXamarin\LisContent.cs" Line="1" Column="1" />
+      <File FileName="ListaXamarin\ListaActivity.cs" Line="63" Column="63" />
+      <File FileName="ListaXamarin\Resources\Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="ListaXamarin\Resources\AboutResources.txt" Line="1" Column="1" />
+      <File FileName="ListaXamarin\SqliteServer.cs" Line="4" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ListaXamarin MonoForAntroid.PreferredDevice="Nexus 4" AndroidDeviceId-Release="TSKJ7P5559MB5HL7" />
+</Properties>

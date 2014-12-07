@@ -1,0 +1,14 @@
+C:\Users\rolandoantonio\Documents\Projects\ListaXamarin\ListaXamarin\bin\Release\ListaXamarin.dll
+C:\Users\rolandoantonio\Documents\Projects\ListaXamarin\ListaXamarin\bin\Release\ListaXamarin.pdb
+C:\Users\rolandoantonio\Documents\Projects\ListaXamarin\ListaXamarin\bin\Release\ListaXamarin.ListaXamarin.apk
+C:\Users\rolandoantonio\Documents\Projects\ListaXamarin\ListaXamarin\bin\Release\ListaXamarin.ListaXamarin-Signed.apk
+C:\Users\rolandoantonio\Documents\Projects\ListaXamarin\ListaXamarin\obj\Release\ListaXamarin.dll
+C:\Users\rolandoantonio\Documents\Projects\ListaXamarin\ListaXamarin\obj\Release\ListaXamarin.pdb
+C:\Users\rolandoantonio\Documents\Projects\ListaXamarin\ListaXamarin\obj\Release\android\bin\ListaXamarin.ListaXamarin.apk
+C:\Users\rolandoantonio\Documents\Projects\ListaXamarin\ListaXamarin\obj\Release\res\layout\main.xml
+C:\Users\rolandoantonio\Documents\Projects\ListaXamarin\ListaXamarin\obj\Release\res\values\strings.xml
+C:\Users\rolandoantonio\Documents\Projects\ListaXamarin\ListaXamarin\obj\Release\res\drawable\icon.png
+C:\Users\rolandoantonio\Documents\Projects\ListaXamarin\ListaXamarin\obj\Release\res\layout\baselist.xml
+C:\Users\rolandoantonio\Documents\Projects\ListaXamarin\ListaXamarin\obj\Release\res\layout\lista.xml
+C:\Users\rolandoantonio\Documents\Projects\ListaXamarin\ListaXamarin\obj\Release\R.cs.flag
+C:\Users\rolandoantonio\Documents\Projects\ListaXamarin\ListaXamarin\obj\Release\uploadflags.txt

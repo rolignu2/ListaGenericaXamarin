@@ -1,0 +1,4 @@
+ListaXamarin.MainActivity;listaxamarin.MainActivity
+ListaXamarin.LisContent;listaxamarin.LisContent
+ListaXamarin.ListaActivity;listaxamarin.ListaActivity
+ListaXamarin.SqliteServer;listaxamarin.SqliteServer
